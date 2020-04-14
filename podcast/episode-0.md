@@ -1,10 +1,10 @@
-Title: Episode 0
+Title: Episode 0: Trailer
 Category: podcast
 Date: 13.04.2020
 Description: In dieser Trailer-Episode geht es um die Hintergründe hinter Lex Ovo: Wer steckt hinter diesem Podcast? Wozu überhaupt dieser Podcast? Was kann man von diesem Podcast inhaltlich erwarten?
 Duration: 02:06
 Enclosure: https://lexovo.de/user/uploads/lexovode_episode0.mp3
-EnclosureLength: 5053125
+EnclosureLength: 2021667
 EnclosureType: audio/mpeg
 EpisodeType: trailer
 Explicit: false
